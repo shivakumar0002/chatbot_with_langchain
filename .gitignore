@@ -3,3 +3,4 @@ langchain_1hr/
 __pycache__/
 *.pyc
 .DS_Store
+.vscode/
